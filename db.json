@@ -1,0 +1,82 @@
+{
+    "results": [
+        {
+            "descrip": "Casa en venta en Obispo Terrero 835, San Isidro, San Isidro, Buenos Aires",
+            "precio": "220.000",
+            "superf": {
+                "total": 218.4,
+                "cubierta": 195.1
+            },
+            "espacios": {
+              "ambient": 5,
+              "banos": 3
+            },
+            "imagen": "https://ibb.co/D1789LT"
+        },
+        {
+            "descrip": "Casa en venta en Calle 358 1064, Ranelagh, Berazategui, Buenos Aires",
+            "precio": "370.000",
+            "superf": {
+                "total": 1547.7,
+                "cubierta": 307.5
+            },
+            "espacios": {
+              "ambient": 6,
+              "banos": 2
+            },
+            "imagen": "https://ibb.co/Q92fvW2"
+        },
+        {
+            "descrip": "Casa en venta en Calle 9 987, Villa Elisa, La Plata, Buenos Aires",
+            "precio": "200.000",
+            "superf": {
+                "total": 468.2,
+                "cubierta": 340.9
+            },
+            "espacios": {
+              "ambient": 5,
+              "banos": 2
+            },
+            "imagen": "https://ibb.co/G5JL3xW"
+        },
+        {
+            "descrip": "Casa en venta en Leonardo Rosales 715, Adrogué, Almirante Brown, Buenos Aires",
+            "precio": "320.000",
+            "superf": {
+                "total": 626.3,
+                "cubierta": 277.4
+            },
+            "espacios": {
+              "ambient": 5,
+              "banos": 2
+            },
+            "imagen": "https://ibb.co/7kx2TzF"
+        },
+        {
+            "descrip": "Casa en venta en De la Vidalita 1922, Villa Udaondo, Ituzaingó, Buenos Aires",
+            "precio": "460.000",
+            "superf": {
+                "total": 1474.4,
+                "cubierta": 411.8
+            },
+            "espacios": {
+              "ambient": 8,
+              "banos": 3
+            },
+            "imagen": "https://ibb.co/4mJ1VPR"
+        },
+        {
+            "descrip": "Casa en venta en Viamonte 602, Tigre, Tigre, Buenos Aires",
+            "precio": "",
+            "superf": {
+                "total": 230.2,
+                "cubierta": 128.5
+            },
+            "espacios": {
+              "ambient": 4,
+              "banos": 2
+            },
+            "imagen": "https://ibb.co/S6TK2b8"
+        }
+    ]
+}
